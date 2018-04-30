@@ -1,0 +1,16 @@
+
+html{
+
+}
+
+body{
+   background-color: rgb(0, 162, 255);
+   
+}
+
+.content{
+    text-align: center;
+    font-size: 24pt;
+    max-width: 960px;
+    margin:auto;
+}
